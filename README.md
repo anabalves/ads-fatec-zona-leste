@@ -1,0 +1,3 @@
+# Analysis and Systems Development (Faculdade de Tecnologia da Zona Leste) - 2020-1 ~ 2022-2 
+
+This repository is a collection of my activities carried out during the course of Analysis and Systems Development at the Faculdade de Tecnologia da Zona Leste. Here you will find a compilation of my achievements, projects, and exercises that have helped me grow as a developer. Feel free to explore and follow my progress throughout this journey of learning and improvement!
